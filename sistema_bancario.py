@@ -90,5 +90,3 @@ while True:
         else:
             print("ATÉ A PRÓXIMA SEÇÃO!")
             break
-        break
-    break
